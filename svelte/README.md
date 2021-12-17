@@ -8,7 +8,7 @@ Once you've installed dependencies with `npm install`, in the project directory,
 
 ### `npm run dev`
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Start a development server.
 
 ### `npm run build`
 
