@@ -7,7 +7,7 @@
 		"start": "rm -rf ./dist/ && webpack --mode=development"
 	},
 	"dependencies": {
-		"costro": "^1.0.0"
+		"costro": "^1.0.1"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.16.0",
